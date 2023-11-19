@@ -13,3 +13,14 @@ hr {
 .title {
   color: crimson;
 }
+.menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+.menu li {
+  margin-right: 10px;
+}
+.books {
+  list-style-type: decimal;

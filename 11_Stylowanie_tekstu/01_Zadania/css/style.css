@@ -18,7 +18,20 @@ body {
   max-width: 50%;
   padding: 5rem;
   box-sizing: border-box;
+  font-family: serif;
+    font-size: 20px;
+    line-height: 2em;
+    color: #555;
 }
 cite {
-  font-style: inherit;
+  font-style: italic;
+  background-color: #eee;
+    color: #777;
+}
+h1, h2 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    color: brown;
+    font-weight: normal;
 }
